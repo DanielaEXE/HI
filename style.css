@@ -19,12 +19,12 @@ td, tr {
     padding: 5px;
 }
 .red {
-    background-color: burlywood; 
+    background-color: #DEB887; 
     color: black; 
     padding: 5px; 
     border: 1px solid lightgrey;
 }
-td img {
+img {
     height: 30px ;
     width: 30px ;
 }
